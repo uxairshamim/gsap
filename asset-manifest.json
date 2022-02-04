@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gsap/static/css/main.50d91086.css",
+    "main.js": "/gsap/static/js/main.3f4c862d.js",
+    "static/js/787.8a80e816.chunk.js": "/gsap/static/js/787.8a80e816.chunk.js",
+    "static/media/Gotham-Ultra.otf": "/gsap/static/media/Gotham-Ultra.4be8f35d796aaf649a2e.otf",
+    "index.html": "/gsap/index.html",
+    "main.50d91086.css.map": "/gsap/static/css/main.50d91086.css.map",
+    "main.3f4c862d.js.map": "/gsap/static/js/main.3f4c862d.js.map",
+    "787.8a80e816.chunk.js.map": "/gsap/static/js/787.8a80e816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d91086.css",
+    "static/js/main.3f4c862d.js"
+  ]
+}
