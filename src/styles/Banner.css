@@ -1,0 +1,44 @@
+.banner-main-sec {
+    background-color: #000;
+}
+.banner-main-sec img {
+    margin: 0 auto;
+    display: table;
+}
+
+
+.banner-color-boxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-color-boxes .banner-main-box {
+    width: 15%;
+    height: 110px;
+}
+
+.box-1 p {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-weight: 600;
+}
+
+.box-1 p {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-weight: 600;
+}
+
+.colors-combination-box{
+    height: 100%;
+}
+
+.box-1 {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
